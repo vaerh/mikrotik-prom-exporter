@@ -1,6 +1,6 @@
 services:
   routeros:
-    image: vaerhme/routeros:v7.14
+    image: vaerhme/routeros:v7.20
     ports:
       - 443:443
       - 8728:8728
